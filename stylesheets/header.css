@@ -1,5 +1,5 @@
-body {
+.parent-container.header {
     height: 200px;
-    width: 100%;
-    color: blueviolet;
+    width: 100vw;
+    background-color: blueviolet;
 }

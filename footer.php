@@ -9,6 +9,6 @@
     <link rel="stylesheet" href="stylesheets/footer.css">
 </head>
 <body>
-    
+    test footer
 </body>
 </html>
